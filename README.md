@@ -21,7 +21,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/grocery-delivery-website.git
+git clone https://yogendrasinghrathod.github.io/Grocify/.git
 Navigate to the Project Directory:
 
 bash
