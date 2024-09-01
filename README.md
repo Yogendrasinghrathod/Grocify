@@ -1,5 +1,6 @@
 Grocery Delivery Website
 This project is a simple, responsive landing page for a grocery delivery service. It highlights the key features of the service, such as fast delivery, a wide range of products, and easy access through both web and mobile applications.
+Website Link:https://yogendrasinghrathod.github.io/Grocify/
 
 Features
 Responsive Design: The landing page is designed to be fully responsive, ensuring optimal viewing on all devices.
@@ -23,6 +24,7 @@ bash
 Copy code
 git clone https://yogendrasinghrathod.github.io/Grocify/.git
 Navigate to the Project Directory:
+
 
 bash
 Copy code
